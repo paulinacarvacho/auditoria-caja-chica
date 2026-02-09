@@ -32,7 +32,7 @@ El análisis del archivo `Auditoría de Caja Chica Municipal_ Detección de Anom
 | TRX-006 | **Duplicado exacto** de la TRX-002 (Mismo proveedor y boleta). | ❌ Rechazar pago duplicado. |
 | TRX-005 | Monto ($210.000) excede el tope de caja chica. | ⚠️ Solicitar autorización especial o rechazar. |
 
-### 📂 Archivos del Repositorio
+📂 Archivos del Repositorio
 `Auditoría de Caja Chica Municipal_ Detección de Anomalías.xlsx`: Dataset original con las transacciones procesadas.
 
 
